@@ -32,10 +32,6 @@ A imagem acima é apenas um exemplo e não representa diretamente o projeto.
 
 Este projeto foi desenvolvido como parte de um trabalho acadêmico e não está aberto a contribuições externas neste momento.
 
-## Licença
-
-Não especificado.
-
 ---
 
 <div align="center">
