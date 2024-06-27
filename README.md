@@ -1,29 +1,28 @@
 # JAR INDIVIDUAL
 
-Este projeto contém o JAR individual desenvolvido como parte do projeto PERFORMEE do segundo semestre da faculdade. O JAR é um executável Java projetado para ler informações dos componentes de hardware de um computador e exibir ao usuário seu estado e capacidade atual.
-
-## Funcionalidades
-
-- Leitura de informações detalhadas sobre os componentes de hardware da máquina.
-- Exibição clara e organizada das informações coletadas para o usuário.
-
-## Tecnologias Utilizadas
-
-- Java: Utilizado para desenvolver o aplicativo executável (JAR).
-- APIs ou bibliotecas específicas para acesso aos componentes de hardware (se aplicável).
+Este projeto consiste em um sistema de monitoramento de componentes do sistema utilizando Java para coletar e exibir informações em tempo real. Os componentes monitorados incluem CPU, disco, leituras, RAM e rede.
 
 ## Como Executar
 
-1. Faça o download do arquivo JAR do projeto.
+Para executar o monitoramento de componentes, siga os passos abaixo:
 
-2. Abra um terminal ou prompt de comando e navegue até o diretório onde o JAR está localizado.
+1. **Baixe o JAR:** Baixe o arquivo JAR do projeto.
 
-3. Execute o JAR com o comando:
+2. **Execute o JAR:** Abra o terminal (ou prompt de comando), navegue até o diretório onde o JAR está localizado e execute o seguinte comando:
+Certifique-se de substituir `jar-individual.jar` pelo nome exato do arquivo JAR que você baixou.
 
-4. O aplicativo será iniciado e exibirá as informações dos componentes de hardware da máquina.
+3. **Visualize os Dados:** O monitoramento será iniciado e começará a coletar dados dos componentes do sistema em tempo real. As informações serão exibidas graficamente ou em formato de tabela, proporcionando uma visão detalhada da utilização da CPU, espaço em disco, leituras, uso da RAM e tráfego de rede.
 
+## Componentes Monitorados
 
-<div align="center">
-<sub>Desenvolvido por PERFORMEE</sub>
-</div>
+Durante a execução do JAR, os seguintes componentes serão monitorados:
 
+- **CPU:** Utilização atual da CPU.
+- **Disco:** Espaço disponível e utilização do disco.
+- **Leituras:** Velocidade de leitura do disco.
+- **RAM:** Uso atual da memória RAM.
+- **Rede:** Taxa de transferência de rede.
+
+## Desenvolvido por
+
+Este projeto foi desenvolvido por Performee e Thais Moitinho, como parte do curso de Analise e Desenvolvimento de Sistemas na São Paulo Tech School.
