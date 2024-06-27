@@ -12,12 +12,6 @@ Este projeto contém o JAR individual desenvolvido como parte do projeto PERFORM
 - Java: Utilizado para desenvolver o aplicativo executável (JAR).
 - APIs ou bibliotecas específicas para acesso aos componentes de hardware (se aplicável).
 
-## Captura de Tela
-
-![Imagem de Exemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVsL0Aeng595KsZ6wrDoDrkww7atgD4efEw&s)
-
-A imagem acima é apenas um exemplo e não representa diretamente o projeto.
-
 ## Como Executar
 
 1. Faça o download do arquivo JAR do projeto.
@@ -38,3 +32,4 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico e não está 
 <sub>Desenvolvido por PERFORMEE</sub>
 </div>
 
+![Imagem de Exemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVsL0Aeng595KsZ6wrDoDrkww7atgD4efEw&s)
