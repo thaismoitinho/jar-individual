@@ -22,11 +22,6 @@ Este projeto contém o JAR individual desenvolvido como parte do projeto PERFORM
 
 4. O aplicativo será iniciado e exibirá as informações dos componentes de hardware da máquina.
 
-## Contribuindo
-
-Este projeto foi desenvolvido como parte de um trabalho acadêmico e não está aberto a contribuições externas neste momento.
-
----
 
 <div align="center">
 <sub>Desenvolvido por PERFORMEE</sub>
