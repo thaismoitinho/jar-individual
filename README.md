@@ -32,4 +32,3 @@ Este projeto foi desenvolvido como parte de um trabalho acadêmico e não está 
 <sub>Desenvolvido por PERFORMEE</sub>
 </div>
 
-![Imagem de Exemplo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVsL0Aeng595KsZ6wrDoDrkww7atgD4efEw&s)
