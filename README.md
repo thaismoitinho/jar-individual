@@ -9,7 +9,7 @@ Para executar o monitoramento de componentes, siga os passos abaixo:
 1. **Baixe o JAR:** Baixe o arquivo JAR do projeto.
 
 2. **Execute o JAR:** Abra o terminal (ou prompt de comando), navegue até o diretório onde o JAR está localizado e execute o seguinte comando:
-Certifique-se de substituir `jar-individual.jar` pelo nome exato do arquivo JAR que você baixou.
+`jar-individual.jar` .
 
 3. **Visualize os Dados:** O monitoramento será iniciado e começará a coletar dados dos componentes do sistema em tempo real. As informações serão exibidas graficamente ou em formato de tabela, proporcionando uma visão detalhada da utilização da CPU, espaço em disco, leituras, uso da RAM e tráfego de rede.
 
